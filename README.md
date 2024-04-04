@@ -5,4 +5,6 @@
  if it becomes lower, marks it as bear/fall.
  
  ![Image](./confusion_matrix.jpg)
-  ![Image](./accuracy.jpg)
+ ![Image](./accuracy.jpg)
+
+ # it not that good according ti its performance, maybe change the model will become better.
